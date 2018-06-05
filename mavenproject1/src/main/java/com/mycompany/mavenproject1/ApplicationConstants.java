@@ -12,10 +12,10 @@ package com.mycompany.mavenproject1;
 public class ApplicationConstants {
  
     // Twitter application specific secret constants.   
-    public static final String CONSUMER_KEY_KEY = "YqQCbUU3blhO5jGSiK8gU17LY";
-    public static final String CONSUMER_SECRET_KEY = "twsxarbwytFDWWFzgdc7HxprNo9vA3abgjGhOIJqUWWLAGkA4Y";
-    public static final String ACCESS_TOKEN_KEY = "988498850-7b4JnIgWzn72TOaeqLCSTNyjNbDm7Y024aQgti69";
-    public static final String ACCESS_TOKEN_SECRET_KEY = "0aWkNC4metbMtIn91aEe8byNFKUfa0FrYvwxSzDf06Li8";
+    public static final String CONSUMER_KEY_KEY = "*****UU3blhO5jGSiK8gU17LY";
+    public static final String CONSUMER_SECRET_KEY = "******bwytFDWWFzgdc7HxprNo9vA3abgjGhOIJqUWWLAGkA4Y";
+    public static final String ACCESS_TOKEN_KEY = "*********-7b4JnIgWzn72TOaeqLCSTNyjNbDm7Y024aQgti69";
+    public static final String ACCESS_TOKEN_SECRET_KEY = "******metbMtIn91aEe8byNFKUfa0FrYvwxSzDf06Li8";
  
     //public static final String CONSUMER_KEY_KEY = "7UK1wCbVrjvCyexWeOrNH0NXH";
     //public static final String CONSUMER_SECRET_KEY = "qNPV9ft7TiVL2tBbR11tQKxItpI3bfrqTCiXp1ArwuguziBZSM";
