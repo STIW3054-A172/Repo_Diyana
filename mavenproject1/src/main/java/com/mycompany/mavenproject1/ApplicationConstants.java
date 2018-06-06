@@ -7,7 +7,7 @@ package com.mycompany.mavenproject1;
 
 /**
  *
- * @author hp
+ * @author team_diyana
  */
 public class ApplicationConstants {
  
@@ -17,10 +17,6 @@ public class ApplicationConstants {
     public static final String ACCESS_TOKEN_KEY = "*********-7b4JnIgWzn72TOaeqLCSTNyjNbDm7Y024aQgti69";
     public static final String ACCESS_TOKEN_SECRET_KEY = "******metbMtIn91aEe8byNFKUfa0FrYvwxSzDf06Li8";
  
-    //public static final String CONSUMER_KEY_KEY = "7UK1wCbVrjvCyexWeOrNH0NXH";
-    //public static final String CONSUMER_SECRET_KEY = "qNPV9ft7TiVL2tBbR11tQKxItpI3bfrqTCiXp1ArwuguziBZSM";
-    //public static final String ACCESS_TOKEN_KEY = "1002953669472481280-6o02NLP5tXfvoNJJVFsF8T54JjT32x";
-   // public static final String ACCESS_TOKEN_SECRET_KEY = "Z0lSzQOWShadJGm4eoj66AxHaTU5EvRuVA5pQgtXl9Lrs";
     
     // constants
     public static final String NOT_AVAILABLE = "Not Available";
