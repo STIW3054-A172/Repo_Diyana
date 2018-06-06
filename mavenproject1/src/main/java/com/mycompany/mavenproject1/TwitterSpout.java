@@ -28,7 +28,7 @@ import twitter4j.conf.ConfigurationBuilder;
 
 /**
  *
- * @author hp
+ * team_diyana
  */
 
 public abstract class TwitterSpout implements IRichSpout {
