@@ -10,7 +10,7 @@ import java.util.Map;
 
 /**
  *
- * @author hp
+ * team_diyana
  */
 public class TweetDetailsManager {
     // intialize map object.
